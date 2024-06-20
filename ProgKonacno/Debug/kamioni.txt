@@ -1,0 +1,14 @@
+ID: 1
+Registracija: awdaw
+Model: awfaw
+Godina Proizvodnje: 123 godina
+Kilometraža: 124125 km
+Stanje Goriva: 5 l
+
+ID: 2
+Registracija: wefwwge
+Model: wegw
+Godina Proizvodnje: 124 godina
+Kilometraža: 5225 km
+Stanje Goriva: 2 l
+
